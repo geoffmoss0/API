@@ -1,0 +1,7 @@
+[package]
+name = "api_test"
+version = "0.1.0"
+authors = ["Geoffrey Moss <geoffrey.moss@wheelergmail.org>"]
+
+[dependencies]
+actix-web = "0.7"
